@@ -5,7 +5,7 @@ The ticket manager provides an improved and modern way of ticket verification fo
  [Click here](https://github.com/dreamcatcher45) to download
 
 ## Instructions📖
-To access the template file, please [Click here](https://github.com/dreamcatcher45)<br>
+To access the template file, please [Click here](https://github.com/dreamcatcher45/Ticketmanager_docs/raw/main/Template.zip)<br>
 Once you have downloaded the CSV template file, you may modify it with your data. 
 QR codes can then be generated from the column named “QRKey”.
 
