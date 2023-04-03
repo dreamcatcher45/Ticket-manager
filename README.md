@@ -1,7 +1,7 @@
 # Ticket Manager documentation🎟️
 The ticket manager provides an improved and modern way of ticket verification for small scale workshops and events.
 
-## Download📩
+## Download🎰
  [Click here](https://github.com/dreamcatcher45) to download
 
 ## Instructions📖
@@ -31,3 +31,6 @@ By using this application, you agree to the following terms and conditions:
 3. Any data shared by the application is done so through third-party apps on your phone. The developer is not responsible for any data shared in this manner.
 4. The application may contain bugs.
 5. All standard terms and conditions apply.
+
+## Feedback and Bug report📧
+We kindly request that you utilize the feedback and bug report feature located within the settings page or report any issues to our designated GitHub repository. Thank you for your cooperation.
