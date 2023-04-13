@@ -1,6 +1,21 @@
 # Ticket Manager documentation🎟️
 The ticket manager provides an improved and modern way of ticket verification for small scale workshops and events.
 
+## Features🪶
+- Scan and Verify QR Tickets
+- Completely offline and standalone app
+- Scan History 
+- Search utility
+- Material You Dynamic theming
+- Dark/Light theme
+- Csv file Data input
+- Database backup
+- Feedback and report Sections
+
+## Screenshots📱
+![Dark-modified (1)](https://user-images.githubusercontent.com/105426078/231826764-84e7fd4c-1e62-4ceb-ab43-c27f2dafc648.png)
+![Light-modified (1)](https://user-images.githubusercontent.com/105426078/231827094-a32b03dc-4d43-42ef-8b2f-cc1cfce87938.png)
+
 ## Download🎰
  [Click here](https://github.com/dreamcatcher45) to download
 
