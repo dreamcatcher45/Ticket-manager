@@ -17,7 +17,7 @@ The ticket manager provides an improved and modern way of ticket verification fo
 ![Light-modified (1)](https://user-images.githubusercontent.com/105426078/231827094-a32b03dc-4d43-42ef-8b2f-cc1cfce87938.png)
 
 ## Download🎰
- [Click here](https://github.com/dreamcatcher45) to download
+ [Click here](https://github.com/dreamcatcher45) to download the android app
 
 ## Instructions📖
 To access the template file, please [Click here](https://github.com/dreamcatcher45/Ticketmanager_docs/raw/main/Template.zip)<br>
