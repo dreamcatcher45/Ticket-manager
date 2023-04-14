@@ -1,4 +1,5 @@
 # Ticket Manager🎟️
+
 The ticket manager provides an improved and modern way of ticket verification for small scale workshops and events.
 
 ## Features🪶
@@ -13,12 +14,16 @@ The ticket manager provides an improved and modern way of ticket verification fo
 - Feedback and report Sections
 
 ## Screenshots📱
-<img src="https://user-images.githubusercontent.com/105426078/231826764-84e7fd4c-1e62-4ceb-ab43-c27f2dafc648.png" width="400" height="300">&ensp;&ensp;<img src="https://user-images.githubusercontent.com/105426078/231827094-a32b03dc-4d43-42ef-8b2f-cc1cfce87938.png" width="400" height="300">
+<img src="https://user-images.githubusercontent.com/105426078/231826764-84e7fd4c-1e62-4ceb-ab43-c27f2dafc648.png" width="550" height="400">
+<img src="https://user-images.githubusercontent.com/105426078/231827094-a32b03dc-4d43-42ef-8b2f-cc1cfce87938.png" width="550" height="400">
+<img src="https://user-images.githubusercontent.com/105426078/231946751-9a0bc2d0-6b59-4e3d-a412-47b4324aaf9d.png" width="550" height="400">
 
 ## Download🎰
 Click the download button to download the android app<br><br>
-[<img src="https://user-images.githubusercontent.com/105426078/231940319-47701cc0-74de-4a89-b15f-40d4b948eeaa.png" width="150" height="50">](https://github.com/dreamcatcher45)
-[<img src="https://user-images.githubusercontent.com/105426078/231940384-e9c54644-a1c9-4627-9896-2cf613de2c2a.png" width="150" height="50">](https://github.com/dreamcatcher45/Ticketmanager_docs/raw/main/Template.zip)
+[<img src="https://user-images.githubusercontent.com/105426078/231943943-06dd6ef9-57de-41c5-a649-d4ff7860f763.png" width="198" height="78">](https://github.com/dreamcatcher45)
+[<img src="https://user-images.githubusercontent.com/105426078/231943992-23ce0c54-b791-4b15-8655-11f4687c0562.png" width="198" height="78">](https://github.com/dreamcatcher45/Ticketmanager_docs/raw/main/Template.zip)
+
+
 
 ## Instructions📖
 To access the template file, please click the template button<br>
