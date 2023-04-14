@@ -13,7 +13,7 @@ https://user-images.githubusercontent.com/105426078/231970227-f298c695-aad1-4f1e
 
 [![Generate tickets](https://user-images.githubusercontent.com/105426078/231976888-cdd92a4a-bb23-4580-b64e-527bdb5c28c5.png)](https://www.youtube.com/watch?v=-T-C_yE4Idw)
 
-> 📝Note: The above linked youtube is not related to the developer.I just found this video very helpful,so I am refering it here.
+> 📝Note: The above linked youtube is not related to the developer.I just found this video very helpful,so I am refering it here. 
 
 ## Attribution 👍
 
