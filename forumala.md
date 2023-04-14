@@ -37,7 +37,7 @@ eg.``` ="CODE"&ROW(A1)+154```
 ----
 ### 3️⃣ Formula to generate qr code image url
 ```
-="https://chart.googleapis.com/chart?chs=300x300&cht=qr&chl="&ENCODEURL(A1)
+="https://chart.googleapis.com/chart?chs=300x300&cht=qr&chl="&ENCODEURL(A2)
 ```
 ##### Output
 | QR Key	    | QR Key Url    |
@@ -48,7 +48,7 @@ eg.``` ="CODE"&ROW(A1)+154```
 
 ### 4️⃣ Formula to generate qr code image in google sheets
 ```
-=image("https://chart.googleapis.com/chart?chs=300x300&cht=qr&chl="&ENCODEURL(A1))
+=image("https://chart.googleapis.com/chart?chs=300x300&cht=qr&chl="&ENCODEURL(A2))
 ```
 Here "A1" is the column position
 ##### Output
