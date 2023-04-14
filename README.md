@@ -18,6 +18,9 @@ Click the download button to download the android app<br><br>
 [<img src="https://user-images.githubusercontent.com/105426078/231943943-06dd6ef9-57de-41c5-a649-d4ff7860f763.png" width="198" height="78">](https://github.com/dreamcatcher45)
 [<img src="https://user-images.githubusercontent.com/105426078/231943992-23ce0c54-b791-4b15-8655-11f4687c0562.png" width="198" height="78">](https://github.com/dreamcatcher45/Ticketmanager_docs/raw/main/Template.zip)
 
+## Formula
+check out the formula page [here](forumala.md)
+
 ## Screenshots📱
 <img src="https://user-images.githubusercontent.com/105426078/231826764-84e7fd4c-1e62-4ceb-ab43-c27f2dafc648.png">
 <img src="https://user-images.githubusercontent.com/105426078/231827094-a32b03dc-4d43-42ef-8b2f-cc1cfce87938.png">
