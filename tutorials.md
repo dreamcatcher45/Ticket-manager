@@ -8,9 +8,10 @@ https://user-images.githubusercontent.com/105426078/231970227-f298c695-aad1-4f1e
 
 > Note: Assign the correct cell number in the formula(eg.A1 is first cell,It carrys headings so its should be skipped and formula starts from A2)
 -----
+
 ## Ticket Generation Using Autocrat
 
-[Generate tickets](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
+[![Generate tickets](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
 
 Attribution 👍
 
