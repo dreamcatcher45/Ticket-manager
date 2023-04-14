@@ -14,9 +14,9 @@ The ticket manager provides an improved and modern way of ticket verification fo
 - Feedback and report Sections
 
 ## Screenshots📱
-<img src="https://user-images.githubusercontent.com/105426078/231826764-84e7fd4c-1e62-4ceb-ab43-c27f2dafc648.png" width="550" height="400">
-<img src="https://user-images.githubusercontent.com/105426078/231827094-a32b03dc-4d43-42ef-8b2f-cc1cfce87938.png" width="550" height="400">
-<img src="https://user-images.githubusercontent.com/105426078/231946751-9a0bc2d0-6b59-4e3d-a412-47b4324aaf9d.png" width="550" height="400">
+<img src="https://user-images.githubusercontent.com/105426078/231826764-84e7fd4c-1e62-4ceb-ab43-c27f2dafc648.png">
+<img src="https://user-images.githubusercontent.com/105426078/231827094-a32b03dc-4d43-42ef-8b2f-cc1cfce87938.png">
+<img src="https://user-images.githubusercontent.com/105426078/231946751-9a0bc2d0-6b59-4e3d-a412-47b4324aaf9d.png">
 
 ## Download🎰
 Click the download button to download the android app<br><br>
