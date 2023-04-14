@@ -20,7 +20,7 @@ Click the download button to download the android app<br><br>
 
 ## Resources🌐
 - Googlesheet Formulas<br>
-> check out the formula page [here](forumala.md)
+> check out the formula page [here](formula.md)
 - Video tutorials
 > check out the tutorial page [here](tutorials.md)
 
