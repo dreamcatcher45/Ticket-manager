@@ -1,4 +1,4 @@
-# Ticket Manager documentation🎟️
+# Ticket Manager🎟️
 The ticket manager provides an improved and modern way of ticket verification for small scale workshops and events.
 
 ## Features🪶
@@ -13,14 +13,15 @@ The ticket manager provides an improved and modern way of ticket verification fo
 - Feedback and report Sections
 
 ## Screenshots📱
-![Dark-modified (1)](https://user-images.githubusercontent.com/105426078/231826764-84e7fd4c-1e62-4ceb-ab43-c27f2dafc648.png)
-![Light-modified (1)](https://user-images.githubusercontent.com/105426078/231827094-a32b03dc-4d43-42ef-8b2f-cc1cfce87938.png)
+<img src="https://user-images.githubusercontent.com/105426078/231826764-84e7fd4c-1e62-4ceb-ab43-c27f2dafc648.png" width="400" height="300">&ensp;&ensp;<img src="https://user-images.githubusercontent.com/105426078/231827094-a32b03dc-4d43-42ef-8b2f-cc1cfce87938.png" width="400" height="300">
 
 ## Download🎰
- [Click here](https://github.com/dreamcatcher45) to download the android app
+Click the download button to download the android app<br><br>
+[<img src="https://user-images.githubusercontent.com/105426078/231940319-47701cc0-74de-4a89-b15f-40d4b948eeaa.png" width="150" height="50">](https://github.com/dreamcatcher45)
+[<img src="https://user-images.githubusercontent.com/105426078/231940384-e9c54644-a1c9-4627-9896-2cf613de2c2a.png" width="150" height="50">](https://github.com/dreamcatcher45/Ticketmanager_docs/raw/main/Template.zip)
 
 ## Instructions📖
-To access the template file, please [Click here](https://github.com/dreamcatcher45/Ticketmanager_docs/raw/main/Template.zip)<br>
+To access the template file, please click the template button<br>
 Once you have downloaded the CSV template file, you may modify it with your data. 
 QR codes can then be generated from the column named “QRKey”.
 
